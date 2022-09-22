@@ -1,9 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{
+    font-family: 'Roboto';
+}
 header{
     display: flex;
     justify-content:space-between;
     margin: auto;
-     width: 1200px;
+    width: 1200px;
 }
 
 .div{
